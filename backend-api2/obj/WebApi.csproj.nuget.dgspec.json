@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PersonalRepo\\aspnet-core-3-signup-verification-api-ssp\\WebApi.csproj": {}
+    "C:\\PersonalRepo\\va-cedar-cc-practice\\backend-api2\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\PersonalRepo\\aspnet-core-3-signup-verification-api-ssp\\WebApi.csproj": {
+    "C:\\PersonalRepo\\va-cedar-cc-practice\\backend-api2\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PersonalRepo\\aspnet-core-3-signup-verification-api-ssp\\WebApi.csproj",
+        "projectUniqueName": "C:\\PersonalRepo\\va-cedar-cc-practice\\backend-api2\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\PersonalRepo\\aspnet-core-3-signup-verification-api-ssp\\WebApi.csproj",
+        "projectPath": "C:\\PersonalRepo\\va-cedar-cc-practice\\backend-api2\\WebApi.csproj",
         "packagesPath": "C:\\Users\\cnavarro\\.nuget\\packages\\",
-        "outputPath": "C:\\PersonalRepo\\aspnet-core-3-signup-verification-api-ssp\\obj\\",
+        "outputPath": "C:\\PersonalRepo\\va-cedar-cc-practice\\backend-api2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

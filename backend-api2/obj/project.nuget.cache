@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdeLHH24sPVfBcSySYlor9DIeW4yjDV3If2KDnKWxEOG34NzMoHoDj85bibaVFPPLj9QQmWNSMva51CSFeN3Zw==",
+  "dgSpecHash": "IDrdA/FWbqHdbCkIwV8374GkqITpvbcHlZR+CmwNboyrIntWrBb7pmm+uIZcHekod45uM/XouRtUK29S+CMGpg==",
   "success": true,
-  "projectFilePath": "C:\\PersonalRepo\\aspnet-core-3-signup-verification-api-ssp\\WebApi.csproj",
+  "projectFilePath": "C:\\PersonalRepo\\va-cedar-cc-practice\\backend-api2\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cnavarro\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\cnavarro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.0\\automapper.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
