@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: va-cedar-webapi-backend2-container
-        image: acrvacedar.azurecr.io/va-cedar-webapi-backend2-practice:$(Build.BuildId)
+        image: acrvacedar.azurecr.io/va-cedar-webapi-backend2-practice:#{Build.BuildId}#
         resources:
           limits:
             memory: "128Mi"
