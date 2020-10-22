@@ -1,16 +1,16 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: va-cedar-webapi-backend2-deployment1
+  name: va-cedar-webapi-backend2-deployment
 spec:
   selector:
     matchLabels:
-      app: va-cedar-webapi-backend2-pod1
+      app: va-cedar-webapi-backend2-pod
   replicas: 1
   template:
     metadata:
       labels:
-        app: va-cedar-webapi-backend2-pod1
+        app: va-cedar-webapi-backend2-pod
     spec:
       containers:
       - name: va-cedar-webapi-backend2-container
@@ -25,10 +25,10 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: va-cedar-webapi-backend2-service1
+  name: va-cedar-webapi-backend2-service
 spec:
   selector:
-    app: va-cedar-webapi-backend2-pod1
+    app: va-cedar-webapi-backend2-pod
   ports:
   - port: 80
     targetPort: 80
